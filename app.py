@@ -34,7 +34,7 @@ class CardRule:
 # 注意：這裡先設定「預設回饋率」，您可以之後根據最新權益微調數字
 MY_CARDS = [
     # 星展銀行
-    CardRule("英雄聯盟卡", "星展銀行", 0.012, 0.10, ["Garena", "Steam", "Netflix", "Uber", "Foodpanda"]),
+    CardRule("傳說對決卡", "星展銀行", 0.012, 0.10, ["Garena", "Steam", "Netflix", "Uber", "Foodpanda"]),
     CardRule("eco永續卡", "星展銀行", 0.015, 0.05, ["Tesla", "Gogoro", "星巴克"]),
     
     # 玉山銀行
